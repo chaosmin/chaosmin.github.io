@@ -7,7 +7,7 @@ description: >-
   bootstrap Jekyll theme with responsive web design
   and focuses on text presentation.
 
-url: ''
+url: 'https://chaosmin.github.io'
 
 author: Romani Min
 
@@ -17,12 +17,12 @@ github:
   username: chaosmin
 
 twitter:
-  username: twitter_username
+  username: Romani
 social:
   name: Romani Min
   email: minchao1029@hotmail.com
   links:
-    - https://twitter.com/username
+    - https://twitter.com/MaGicCroWm
     - https://github.com/chaosmin
 
 
